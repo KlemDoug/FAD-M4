@@ -9,7 +9,7 @@ Este repositório (FAD-M4) contém os arquivos utilizados para disponibilizar a 
 ---
 ## Arquivos ##
 
-* **Projeto Individual 1 - Modúlo 4.py**: arquivo contendo o código para geração do relatório, explicações das etapas e *insights* finais em cima dos dados trabalhados;
+* **Projeto Individual 1 - Módulo 4.py**: arquivo contendo o código para geração do relatório, explicações das etapas e *insights* finais em cima dos dados trabalhados;
 * **README.md**: arquivo que abriga uma breve descrição do projeto com seu título, funcionalidades e detalhamentos de acesso.
 ---
 ## Implantação ##
