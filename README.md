@@ -2,6 +2,11 @@
 
 Este repositório (FAD-M4) contém os arquivos utilizados para disponibilizar a infraestrutura necessária dos projetos referentes ao Módulo 4 (Análise, Visualização de Dados e Metodologias Ágeis) do curso de Formação em Análise de Dados promovido pela parceria SENAC/Resilia. Neste caso, é detalhado o primeiro projeto individual do módulo:
 
+# Exemplo Colaboratory  
+Este é um repositório com o exemplo criado pelo Google Colaboratory.
+
+[[M4]_Projeto_Individual_1.ipynb](/[M4]_Projeto_Individual_1.ipynb)
+
 Uma determinada loja deseja produzir relatóriossemanais com ganhos e despesas. O gerente da
 loja te contratou para gerar um relatório de uma
 semana para mostrar ao dono da loja como a
