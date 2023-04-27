@@ -192,7 +192,8 @@ print('*'*90)
 
 > Com a prospecção dos dados anteriores, pode-se perceber a importância de uma análise de dados bem executada para a gestão de custos dentro de uma empresa.
 
-> As consultas dentro do *dataframe* permitem, por exemplo, visualizar potenciais FUROS DE DESPESAS ou planejar investimentos para um mês SEM ESTOURAR O ORÇAMENTO disponível ou prazos de execução de tarefas. Vejamos os exemplos abaixo:
+> As consultas dentro do *dataframe* permitem, por exemplo, visualizar potenciais FUROS DE DESPESAS ou planejar investimentos para um mês SEM ESTOURAR O ORÇAMENTO 
+disponível ou prazos de execução de tarefas. Vejamos os exemplos abaixo:
 
 * EXEMPLO 1: "Na posição de gerente, preciso saber se os lucros semanais estão bem encaminhados para atingir a meta do mês através do método 50-30-20, onde:
 >- 50% é para despesas fixas;
@@ -223,9 +224,12 @@ print('*'*30)
 display(desp.iloc[2])
 print('*'*30)
 
-"""Acima, fica visível que no mesmo dia em que houveram despesas elevadas catalogadas em 'Outros', o lucro diário foi negativo. Isso permite iniciar planos de ação para, por exemplo, ampliar as categorias de despesas afim de ter um maior controle dos gastos arbitrários (esse 'outros' foi quebra/roubo de insumo? Ou foi outra coisa?).
+"""Acima, fica visível que no mesmo dia em que houveram despesas elevadas catalogadas em 'Outros', o lucro diário foi negativo. Isso permite iniciar planos de ação
+para, por exemplo, ampliar as categorias de despesas afim de ter um maior controle dos gastos arbitrários (esse 'outros' foi quebra/roubo de insumo? Ou foi outra
+coisa?).
 
-* EXEMPLO 3: "Será que os ganhos brutos dessa quarta-feira estavam dentro do esperado e o fator determinante para o lucro negativo foi somente devido às despesas de caráter mais nebuloso?"
+* EXEMPLO 3: "Será que os ganhos brutos dessa quarta-feira estavam dentro do esperado e o fator determinante para o lucro negativo foi somente devido às despesas de
+caráter mais nebuloso?"
 """
 
 #comparações entre valores:
@@ -237,7 +241,9 @@ print('*'*90)
 print(desp.loc[(desp['Ganhos']>3000)&(desp['Lucro_Diário']>0)]) #ganhos brutos superiores a 3000.00 
 print('*'*90)                                                   #onde não houveram lucros negativos
 
-"""Com as impressões acima, temos condições de extrair as informações necessárias e observar que apesar de estar num valor levemente abaixo das médias de ganho bruto, o valor de quarta-feira não foi determinante para o lucro indesejado. Assim, é possível direcionarmos os esforços para tratar desses ruídos no planejamento de gastos de forma mais efetiva e precisa.
+"""Com as impressões acima, temos condições de extrair as informações necessárias e observar que apesar de estar num valor levemente abaixo das médias de ganho bruto,
+o valor de quarta-feira não foi determinante para o lucro indesejado. Assim, é possível direcionarmos os esforços para tratar desses ruídos no planejamento de gastos
+de forma mais efetiva e precisa.
 
 ---
 """
