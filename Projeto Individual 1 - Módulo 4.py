@@ -1,6 +1,6 @@
 """[M4] Projeto Individual 1.ipynb
 
-Aquivo original localizado em https://colab.research.google.com/drive/1mFGP0FHfaQgOELY90s0pBHNfVIHPGyp-
+Aquivo original localizado em https://colab.research.google.com/drive/1mFGP0FHfaQgOELY90s0pBHNfVIHPGyp-?usp=sharing
 
 ##################################################################
 #  SENAC/RESILIA - Formação em Análise de Dados (FAD)            #
