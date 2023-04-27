@@ -25,7 +25,7 @@ para mostrar ao dono da loja como a análise dos dados pode ser útil para eles.
 |Quinta     |0        |495.20  |300         |500    |
 |Sexta      |100      |411.53  |275         |0	    |
 |Sábado     |100      |245.00  |525         |0	    |
-|Domingo    |0        |164.00  |75	        |820    |
+|Domingo    |0        |164.00  |75          |820    |
 
 Além disso, ele informou que os ganhos não estão nessa planilha, mas que ele possui a seguinte lista: 2200, 2420.50, 3391, 5322, 4898.50, 4200, 3893
 respectivos aos dias da semana. Ele te deixou bem livre para incluir no relatório as estatísticas que desejar, mas ele deseja que o relatório contenha
