@@ -213,7 +213,7 @@ def meta(valormeta=50000.00):
     return f"A META DO MÊS NÃO FOI ATINGIDA! Faltam ${valormeta-(4*lucro_total)} para atingir nosso objetivo."
   return f"A META DO MÊS FOI ATINGIDA! Teremos um lucro de ${((4*lucro_total)-valormeta).round(2)} acima do estipulado. Parabéns!"
 print(f'Lucro estimado do Mês: ${4*lucro_total}.')
-print(meta(valormeta))
+print(meta())
 print('*'*90)
 
 """ * EXEMPLO 2: "Tendo conhecimento do dia da semana onde houve o menor lucro registrado, preciso destacar esses dados para procurar algum ponto fora da tangente."
