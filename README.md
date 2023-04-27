@@ -5,7 +5,7 @@ Este repositório (FAD-M4) contém os arquivos utilizados para disponibilizar a 
 # Exemplo Colaboratory  
 Este é um repositório com o exemplo criado pelo Google Colaboratory.
 
-[[M4]_Projeto_Individual_1.ipynb](/[M4]_Projeto_Individual_1.ipynb)
+[Projeto Individual 1 - Módulo 4.py](/Projeto Individual 1 - Módulo 4.py)
 
 Uma determinada loja deseja produzir relatóriossemanais com ganhos e despesas. O gerente da
 loja te contratou para gerar um relatório de uma
