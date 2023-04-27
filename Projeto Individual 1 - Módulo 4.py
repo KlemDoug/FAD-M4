@@ -244,6 +244,5 @@ print('*'*90)                                                   #onde não houve
 """Com as impressões acima, temos condições de extrair as informações necessárias e observar que apesar de estar num valor levemente abaixo das médias de ganho bruto,
 o valor de quarta-feira não foi determinante para o lucro indesejado. Assim, é possível direcionarmos os esforços para tratar desses ruídos no planejamento de gastos
 de forma mais efetiva e precisa.
-
 ---
 """
