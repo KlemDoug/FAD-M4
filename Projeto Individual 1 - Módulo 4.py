@@ -221,7 +221,7 @@ print('*'*90)
 
 #acesso dos dados referentes à quarta-feira através do índice
 print('*'*30)
-display(desp.iloc[2])
+print(desp.iloc[2])
 print('*'*30)
 
 """Acima, fica visível que no mesmo dia em que houveram despesas elevadas catalogadas em 'Outros', o lucro diário foi negativo. Isso permite iniciar planos de ação
