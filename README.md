@@ -2,53 +2,62 @@
 
 Este repositório (FAD-M4) contém os arquivos utilizados para disponibilizar a infraestrutura necessária dos projetos referentes ao Módulo 4 (Análise, Visualização de Dados e Metodologias Ágeis) do curso de Formação em Análise de Dados promovido pela parceria SENAC/Resilia. Neste caso, é detalhado o primeiro projeto individual do módulo:
 
-# Exemplo Colaboratory  
-Este é um repositório com o exemplo criado pelo Google Colaboratory.
+---
+## Contexto ##
 
-[Projeto Individual 1 - Módulo 4.py](/Projeto Individual 1 - Módulo 4.py)
-
-Uma determinada loja deseja produzir relatóriossemanais com ganhos e despesas. O gerente da
-loja te contratou para gerar um relatório de uma
-semana para mostrar ao dono da loja como a
-análise dos dados pode ser útil para eles. Para
-isso, ele te enviou uma tabela de exemplo das
-despesas de uma semana:
-CONTEXTO
-Além disso, ele informou que os ganhos não estão nessa planilha, mas que ele
-possui a seguinte lista: 2200, 2420.50, 3391, 5322, 4898.50, 4200, 3893
-respectivos aos dias da semana. Ele te deixou bem livre para incluir no relatório as
-estatísticas que desejar, mas ele deseja que o relatório contenha outros dados que
-veremos a seguir...
-a
-Gerar um relatório de uma semana para mostrar ao dono da loja como a análise dos
-dados pode ser útil e incluir no relatório outros itens:
-■ A subtração de impostos dos ganhos diários, que nesta semana foi de 7%;
-■ A soma total dos ganhos;
-■ A média semanal dos ganhos;
-■ A soma total das despesas por categoria;
-■ A média semanal de todas as despesas;
-■ O lucro diário para informar qual dia foi mais lucrativo e o lucro total da semana;
-■ Uma organização com textos explicando o que foi feito para obter os valores e
-os resultados bem apresentados.
-
-
-###########################################################################################################
-
+> Uma determinada loja deseja produzir relatórios semanais com ganhos e despesas. O gerente da loja te contratou para gerar um relatório de uma semana para mostrar ao dono da loja como a análise dos dados pode ser útil para eles. Para isso, ele te enviou uma tabela de exemplo (está presente no arquivo.py) das despesas de uma semana. Além disso, ele informou que os ganhos não estão nessa planilha, mas que ele possui a seguinte lista: 2200, 2420.50, 3391, 5322, 4898.50, 4200, 3893 respectivos aos dias da semana. Ele te deixou bem livre para incluir no relatório as estatísticas que desejar, mas o relatório deve conter dados referentes à soma, média e lucros em cima dos ganhos e das despesas registrados.
+---
 ## Arquivos ##
 
-* **ConceptRaw.png**: arquivo contendo imagem do modelo conceitual inicial;
-* **ConceptUpgrade.png**: arquivo contendo imagem do modelo conceitual aprimorado;
-* **LogicRaw.png**: arquivo contendo imagem do modelo lógico inicial;
-* **LogicUpgrade.png**: arquivo contendo imagem do modelo lógico aprimorado;
-* **Answers.docx**: documento explicativo relatando as etapas da modelagem, suas entidades, relacionamentos e cardinalidades envolvidas, além das respostas às perguntas indagadas no projeto-base; é necessário processo de download desse arquivo para leitura;
-* **Answers.pdf**: versão para leitura imediata e com proteção de formatação do Answers.docx;
-* **README_Indiv1.md**: arquivo que abriga uma breve descrição do projeto com o título, suas funcionalidades, arquivos presentes na pasta do projeto e o registro final no banco de dados;
+* **Projeto Individual 1 - Modúlo 4.py**: arquivo contendo o código para geração do relatório, explicações das etapas e *insights* finais em cima dos dados trabalhados;
+* **README.md**: arquivo que abriga uma breve descrição do projeto com seu título, funcionalidades e detalhamentos de acesso.
+---
+## Implantação ##
+
+Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
+
+## 📦 Implantação
+
+Adicione notas adicionais sobre como implantar isso em um sistema ativo
+
+## 🛠️ Construído com
+
+Mencione as ferramentas que você usou para criar seu projeto
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
+* [Maven](https://maven.apache.org/) - Gerente de Dependência
+* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+
+## 🖇️ Colaborando
+
+Por favor, leia o [COLABORACAO.md](https://gist.github.com/usuario/linkParaInfoSobreContribuicoes) para obter detalhes sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
+
+## 📌 Versão
+
+Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+
+## ✒️ Autores
+
+Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+
+* **Um desenvolvedor** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
+* **Fulano De Tal** - *Documentação* - [fulanodetal](https://github.com/linkParaPerfil)
+
+Você também pode ver a lista de todos os [colaboradores](https://github.com/usuario/projeto/colaboradores) que participaram deste projeto.
+
+## 📄 Licença
+
+Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
+
+## 🎁 Expressões de gratidão
+
+* Conte a outras pessoas sobre este projeto 📢;
+* Convide alguém da equipe para uma cerveja 🍺;
+* Um agradecimento publicamente 🫂;
+* etc.
 
 
-###########################################################################################################
-
-## Funcionalidades ##
-
-### * 1: Modelagem ###
-
-Essa etapa foi amplam
+---
+⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
