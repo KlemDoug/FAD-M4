@@ -10,7 +10,7 @@ Este repositório (FAD-M4) contém os arquivos utilizados para disponibilizar a 
 ---
 ## :open_file_folder: Arquivos ##
 
-* **[M4] Projeto Extra.py**: arquivo contendo o código para geração do relatório, explicações das etapas e *insights* finais em cima dos dados analisados;
+* **[M4]_Projeto_Extra.ipynb**: arquivo contendo o código para geração do relatório, explicações das etapas e *insights* finais em cima dos dados analisados;
 * **README_Extra.md**: arquivo que abriga uma breve descrição do projeto com seu título, funcionalidades e detalhamentos de acesso.
 
 ---
