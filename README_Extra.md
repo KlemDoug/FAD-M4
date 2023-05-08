@@ -21,7 +21,7 @@ O projeto para operar a geração do relatório na sua máquina local pode tamb�
 ---
 ## :construction: Construção ##
 
-* [Google Colab](https://colab.research.google.com/) - Plataforma Google Colaboratory (Colab);
+* [Google Colab](https://colab.research.google.com/) - Plataforma Google Colaboratory + IDE Jupyter Notebook;
 * [Pandas](https://pandas.pydata.org/) - Biblioteca Pandas;
 * [Python](https://www.python.org/) - Linguagem Python.
 
