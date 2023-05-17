@@ -23,11 +23,13 @@ O projeto para operar a geração do relatório na sua máquina local pode tamb�
 
 * [Google Colab](https://colab.research.google.com/) - Plataforma Google Colaboratory + IDE Jupyter Notebook;
 * [Pandas](https://pandas.pydata.org/) - Biblioteca Pandas;
+* [NumPy](https://numpy.org/) - Biblioteca NumPy;
+* [MatPlotLib](https://matplotlib.org/) - Biblioteca MatPlotLib;
 * [Python](https://www.python.org/) - Linguagem Python.
 
 ---
 ## :busts_in_silhouette: Autoria ##
 
-Criado por [Douglas Klem](https://gist.github.com/KlemDoug). :space_invader: :alien: :sparkling_heart: 
+Criado por [Douglas Klem](https://gist.github.com/KlemDoug) :space_invader: :alien: :sparkling_heart: 
 
 ---
